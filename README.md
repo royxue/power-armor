@@ -1,5 +1,7 @@
 # Power-Armor
 ---
+![power_armor](./misc/power_armor.jpg =100x100)
+
 ### Personal Mac Development Environment Setup Configuration
 
 #### Working in progress now ;)
