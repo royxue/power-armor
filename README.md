@@ -16,6 +16,7 @@
 #### 2. Command Line
 1. [homebrew](http://brew.sh/)
 2. [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+3. [thefuck](https://github.com/nvbn/thefuck)
 
 #### 3. Package Management
 1. [pip](https://pypi.python.org/pypi/pip)
