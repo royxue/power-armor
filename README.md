@@ -9,8 +9,6 @@
 #### 1. Core
 1. [spacemacs](https://github.com/syl20bnr/spacemacs)
 2. [sublime](https://www.sublimetext.com/3)
-	2.1 [Package Control](https://packagecontrol.io/installation)
-	2.2 Seti UI
 3. [iterm 2](https://www.iterm2.com/)
 4. [oh my zsh](https://github.com/robbyrussell/oh-my-zsh)
 5. [Tower](https://www.git-tower.com/)
@@ -39,3 +37,7 @@
 
 #### 7. Pending
 1. [mac-cli](https://github.com/guarinogabriel/mac-cli)
+
+#### 8. Sublime
+1. [Package Control](https://packagecontrol.io/installation)
+2. Seti UI
