@@ -1,6 +1,6 @@
 # Power-Armor
 ---
-![power_armor](https://raw.githubusercontent.com/royxue/Power-Armor/master/misc/power_armor.jpg)
+![power_armor](https://raw.githubusercontent.com/royxue/Power-Armor/master/misc/power_armor.png)
 
 ### Personal Mac Development Environment Setup Configuration
 
