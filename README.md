@@ -15,7 +15,8 @@
 
 #### 2. Command Line
 1. [homebrew](http://brew.sh/)
-2. [thefuck](https://github.com/nvbn/thefuck)
+2. [tmux](https://github.com/gpakosz/.tmux) using gpakosz's config
+3. [thefuck](https://github.com/nvbn/thefuck)
 
 #### 3. Package Management
 1. [pip](https://pypi.python.org/pypi/pip)
