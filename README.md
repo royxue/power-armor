@@ -15,7 +15,8 @@
 
 #### 2. Command Line
 1. [homebrew](http://brew.sh/)
-2. [thefuck](https://github.com/nvbn/thefuck)
+2. [tmux](https://github.com/gpakosz/.tmux) using gpakosz's config
+3. [thefuck](https://github.com/nvbn/thefuck)
 
 #### 3. Package Management
 1. [pip](https://pypi.python.org/pypi/pip)
@@ -27,17 +28,16 @@
 
 #### 5. Productive
 1. Alfred 3 with Powerpack
-2. Omni Focus 2
+2. ~~Omni Focus 2~~ Things3
 3. Paste 2
 4. 1Password
-6. MacDown
-7. [Karabiner](https://pqrs.org/osx/karabiner/)
+6. ~~MacDown~~ Bear
+7. ~~[Karabiner](https://pqrs.org/osx/karabiner/)~~ (Not support current version)
 
 #### 6. Weapons
 1. HHKB
 
 #### 7. Pending
-1. [mac-cli](https://github.com/guarinogabriel/mac-cli)
 
 #### 8. Sublime
 1. [Package Control](https://packagecontrol.io/installation)
