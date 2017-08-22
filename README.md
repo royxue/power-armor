@@ -22,17 +22,17 @@
 1. [pip](https://pypi.python.org/pypi/pip)
 
 #### 4. Dev Tools
-1. Postman
+1. [Postman](https://www.getpostman.com/)
 2. Docker
 3. [Sequel Pro](http://www.sequelpro.com/)
 
 #### 5. Productive
 1. Alfred 3 with Powerpack
-2. ~~Omni Focus 2~~ Things3
+2. Things3 ~~Omni Focus 2~~ 
 3. Paste 2
 4. 1Password
-6. ~~MacDown~~ Bear
-7. ~~[Karabiner](https://pqrs.org/osx/karabiner/)~~ (Not support current version)
+6. Bear
+7. [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)
 
 #### 6. Weapons
 1. HHKB
