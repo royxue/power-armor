@@ -4,7 +4,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/royxue/.oh-my-zsh
+export ZSH=$HOME/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -22,7 +22,7 @@ ZSH_THEME="agnoster"
 DISABLE_AUTO_UPDATE="true"
 
 # Uncomment the following line to change how often to auto-update (in days).
-# export UPDATE_ZSH_DAYS=13
+export UPDATE_ZSH_DAYS=14
 
 # Uncomment the following line to disable colors in ls.
 # DISABLE_LS_COLORS="true"
@@ -31,7 +31,7 @@ DISABLE_AUTO_UPDATE="true"
 # DISABLE_AUTO_TITLE="true"
 
 # Uncomment the following line to enable command auto-correction.
-# ENABLE_CORRECTION="true"
+ENABLE_CORRECTION="true"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
 # COMPLETION_WAITING_DOTS="true"
@@ -55,6 +55,11 @@ DISABLE_AUTO_UPDATE="true"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git zsh-autosuggestions extract web-search wd)
 
+# Antigen Plugins
+source /usr/local/share/antigen/antigen.zsh
+antigen bundle djui/alias-tips
+antigen apply
+
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
@@ -76,14 +81,16 @@ source $ZSH/oh-my-zsh.sh
 # ssh
 # export SSH_KEY_PATH="~/.ssh/rsa_id"
 
-# Alias Below
+# thefuck
+eval "$(thefuck --alias)"
+
+# Personal Alias Below
 # zsh config 
 alias zshconfig="subl ~/.zshrc"
 
 # pip install
 alias pip2="python2 -m pip"
 alias pip3="python3 -m pip"
-
 # Alias Above
 
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
