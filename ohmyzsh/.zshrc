@@ -53,7 +53,7 @@ ENABLE_CORRECTION="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions extract web-search wd)
+plugins=(git zsh-autosuggestions extract web-search wd tmux osx nyan)
 
 # Antigen Plugins
 source /usr/local/share/antigen/antigen.zsh
@@ -91,6 +91,16 @@ alias zshconfig="subl ~/.zshrc"
 # pip install
 alias pip2="python2 -m pip"
 alias pip3="python3 -m pip"
+
+# npm install
+alias npmi="npm install"
+alias npms="npm install --save"
+
+# Docker compose
+alias dcup="docker-compose up"
+alias dcdown="docker-compose down"
+alias dcbu="docker-compose build"
+
 # Alias Above
 
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
