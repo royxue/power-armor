@@ -59,6 +59,7 @@ plugins=(git zsh-autosuggestions extract web-search wd tmux osx docker docker-co
 source /usr/local/share/antigen/antigen.zsh
 antigen bundle djui/alias-tips
 antigen bundle webyneter/docker-aliases
+antigen bundle sobolevn/wakatime-zsh-plugin
 antigen apply
 
 source $ZSH/oh-my-zsh.sh
