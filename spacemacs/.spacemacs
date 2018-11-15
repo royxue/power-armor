@@ -32,12 +32,6 @@ values."
    dotspacemacs-configuration-layers
    '(
      ruby
-     typescript
-     ;; ----------------------------------------------------------------
-     ;; Example of useful layers you may want to use right away.
-     ;; Uncomment some layer names and press <SPC f e R> (Vim style) or
-     ;; <M-m f e R> (Emacs style) to install them.
-     ;; ----------------------------------------------------------------
      python
      helm
      auto-completion
@@ -70,7 +64,7 @@ values."
      version-control
      (wakatime :variables
                wakatime-api-key "df82bd63-0a4a-48c3-9a88-a811e5f573b6"
-               wakatime-cli-path "/Users/roy/miniconda3/bin/wakatime")
+               wakatime-cli-path "~/miniconda3/bin/wakatime")
      yaml
      )
    ;; List of additional packages that will be installed without being
