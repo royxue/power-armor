@@ -111,4 +111,4 @@ eval $(/usr/libexec/path_helper -s)
 export PATH="/usr/local/opt/sqlite/bin:$PATH"
 
 # Anaconda Path
-export PATH=~/miniconda3/bin:$PATH
+. ~/miniconda3/etc/profile.d/conda.sh
