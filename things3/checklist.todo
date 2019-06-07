@@ -1,0 +1,96 @@
+things:///json?data=
+  [
+    {
+      "type": "project",
+      "attributes": {
+        "title": "Mac env setup",
+        "items": [
+          {
+            "type": "heading",
+            "attributes": {
+              "title": "Manually Downloads"
+            }
+          },
+          {
+            "type": "to-do",
+            "attributes": {
+              "title": "iTerm 2"
+            }
+          },
+          {
+            "type": "to-do",
+            "attributes": {
+              "title": "Alfred"
+            }
+          },
+
+          {
+            "type": "to-do",
+            "attributes": {
+              "title": "Tower"
+            }
+          },
+          {
+            "type": "to-do",
+            "attributes": {
+              "title": "Karabiner Elements",
+            }
+          },
+          {
+            "type": "heading",
+            "attributes": {
+              "title": "Keyboard Maestro"
+            }
+          },
+          {
+            "type": "to-do",
+            "attributes": {
+              "title": "Docker",
+            }
+          },
+          {
+            "type": "to-do",
+            "attributes": {
+              "title": "Code",
+            }
+          },
+          {
+            "type": "to-do",
+            "attributes": {
+              "title": "Paste",
+            }
+          },
+          {
+            "type": "to-do",
+            "attributes": {
+              "title": "Popclip",
+            }
+          },
+          {
+            "type": "to-do",
+            "attributes": {
+              "title": "Fantastical",
+            }
+          },
+          {
+            "type": "to-do",
+            "attributes": {
+              "title": "Bear",
+            }
+          },
+          {
+            "type": "to-do",
+            "attributes": {
+              "title": "Things 3",
+              "completed": true
+          },
+          {
+            "type": "heading",
+            "attributes": {
+              "title": "Automation Scrips"
+            }
+          },
+        ]
+      }
+    },
+  ]
