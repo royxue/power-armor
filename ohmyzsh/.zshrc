@@ -109,6 +109,3 @@ alias dcbu="docker-compose build"
 export PATH="$PATH:$HOME/.rvm/bin"
 eval $(/usr/libexec/path_helper -s)
 export PATH="/usr/local/opt/sqlite/bin:$PATH"
-
-# Anaconda Path
-. ~/miniconda3/etc/profile.d/conda.sh
