@@ -60,7 +60,6 @@ source /usr/local/share/antigen/antigen.zsh
 antigen bundle zsh-users/zsh-autosuggestions
 antigen bundle djui/alias-tips
 antigen bundle webyneter/docker-aliases
-antigen bundle sobolevn/wakatime-zsh-plugin
 antigen apply
 
 source $ZSH/oh-my-zsh.sh
@@ -92,8 +91,8 @@ eval "$(thefuck --alias)"
 alias zshconfig="subl ~/.zshrc"
 
 # pip install
-alias pip2="python2 -m pip"
-alias pip3="python3 -m pip"
+alias python="python3"
+alias pip="python3 -m pip"
 
 # npm install
 alias npmi="npm install"

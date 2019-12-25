@@ -20,7 +20,7 @@ This Repo is aimed for quick env setup
 * Things 3
 * Fantastical
 * Mindnode
-* BetterSnapTool
+* Magnet
 * Amphetamine
 * Popclip
 
@@ -28,4 +28,5 @@ This Repo is aimed for quick env setup
 * Install things 3 from app store
 * Load this [checklist]()
 
-3. [tmux config](https://github.com/gpakosz/.tmux)
+### Theme
+[Dracula](https://github.com/dracula/dracula-theme)
