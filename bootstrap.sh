@@ -9,7 +9,7 @@ brew install git
 
 # Fonts setup
 brew tap homebrew/cask-fonts
-brew cask install font-hack-nerd-font
+brew cask install font-hack-nerd-font font-fira-code
 
 # Tmux setup
 brew install tmux
@@ -35,3 +35,4 @@ ln -s ~/power-armor/spacemacs/.spacemacs ~/.spacemacs
 # Oh my zsh setup
 brew install zsh zsh-completions
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
